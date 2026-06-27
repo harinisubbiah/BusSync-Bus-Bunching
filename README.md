@@ -153,7 +153,7 @@ Through this project I gained experience in:
 ---
 
 # Contibutors
-1. Aniruddhan S [https://github.com/CoderAni651]
+- Aniruddhan S [https://github.com/CoderAni651]
 
 --- 
 # 📜 License
