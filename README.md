@@ -166,12 +166,6 @@ This project is licensed under the MIT License.
 
 **Harini S**
 
-B.Tech Electronics and Computer Science Engineering
-
-Vellore Institute of Technology, Chennai
-
 ---
-
-⭐ If you found this project interesting, consider giving it a star!
 
 
