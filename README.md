@@ -49,7 +49,7 @@ by continuously monitoring vehicle positions and recommending corrective actions
 ---
 
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 | Category | Technology |
 |-----------|------------|
