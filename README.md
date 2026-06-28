@@ -1,10 +1,10 @@
-# 🚌 BusSync – Intelligent Bus Bunching Detection & Optimization System
+# BusSync – Intelligent Bus Bunching Detection & Optimization System
 
 > A Python-based intelligent transportation system that detects bus bunching, analyzes headway deviations, and generates optimization suggestions to improve schedule adherence and passenger experience.
 
 ---
 
-## 📌 Overview
+## Overview
 
 Bus bunching is a common issue in public transportation where two or more buses scheduled at regular intervals end up arriving together. This leads to overcrowding, longer passenger waiting times, and inefficient fleet utilization. Bus bunching is a well-known challenge in transit operations and reducing it improves service reliability. :contentReference[oaicite:0]{index=0}
 
@@ -14,21 +14,21 @@ The system simulates real-world traffic conditions by processing continuously up
 
 ---
 
-# ✨ Features
+# Features
 
-- 🚌 Bus bunching detection
-- 📍 Real-time bus position analysis
-- ⏱️ Headway calculation between consecutive buses
-- 🚦 Traffic-aware simulation
-- 📈 Schedule adherence monitoring
-- ⚠️ Automatic bunching alerts
-- 📱 Android application for driver recommendations
-- 🔄 Dynamic data updates
-- 📊 Performance visualization
+- Bus bunching detection
+- Real-time bus position analysis
+- Headway calculation between consecutive buses
+- Traffic-aware simulation
+- Schedule adherence monitoring
+- Automatic bunching alerts
+- Android application for driver recommendations
+- Dynamic data updates
+- Performance visualization
 
 ---
 
-# 🚀 Motivation
+# Motivation
 
 Maintaining equal spacing (headways) between buses is essential for reliable public transportation.
 
@@ -62,7 +62,7 @@ by continuously monitoring vehicle positions and recommending corrective actions
 
 ---
 
-# 🔄 Workflow
+# Workflow
 
 1. Read bus position data.
 
@@ -78,7 +78,7 @@ by continuously monitoring vehicle positions and recommending corrective actions
 
 ---
 
-# 📊 Optimization Strategy
+# Optimization Strategy
 
 The optimization engine continuously evaluates the spacing between buses.
 
@@ -94,25 +94,19 @@ These recommendations help maintain a target headway throughout the route.
 
 ---
 
-# 📈 Key Features
+# Key Features
 
-✔ Dynamic simulation
-
-✔ Real-time bus tracking
-
-✔ Headway optimization
-
-✔ Driver assistance
-
-✔ Route monitoring
-
-✔ Continuous data updates
-
-✔ Intelligent recommendation engine
+- Dynamic simulation
+- Real-time bus tracking
+- Headway optimization
+- Driver assistance
+- Route monitoring
+- Continuous data updates
+- Intelligent recommendation engine
 
 ---
 
-# 📈 Results
+# Results
 
 The system successfully:
 
@@ -124,45 +118,17 @@ The system successfully:
 
 ---
 
-# 💡 Future Improvements
-
-- 🌍 GPS integration
-- ☁️ Cloud database
-- 📡 Live vehicle tracking
-- 🤖 Machine Learning prediction
-- 🗺️ Interactive route maps
-- 📱 Passenger mobile application
-- 📊 Web dashboard using React
-- 🔔 Push notifications
-
----
-
-# 🎯 Learning Outcomes
-
-Through this project I gained experience in:
-
-- Transportation analytics
-- Algorithm design
-- Real-time data processing
-- Optimization techniques
-- Android application development
-- Python software development
-- Simulation modeling
-- Data visualization
-
----
-
 # Contibutors
 - Aniruddhan S [https://github.com/CoderAni651]
 
 --- 
-# 📜 License
+# License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Harini S**
 
